@@ -1,4 +1,7 @@
 # winomech-frontend
-Clone the Code
-npm install
-ng serve -- run the code
+======================================================
+1. Clone the Code
+2. npm install
+3. ng serve -- run the code
+4. Run the code in browser 
+
